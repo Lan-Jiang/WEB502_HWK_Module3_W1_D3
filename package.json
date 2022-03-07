@@ -1,0 +1,26 @@
+{
+  "name": "hwk_m3_w1_d3",
+  "version": "1.0.0",
+  "description": "WEB502_HWK_Module3_W1_D3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lan-Jiang/WEB502_HWK_Module3_W1_D3.git"
+  },
+  "author": "Lan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lan-Jiang/WEB502_HWK_Module3_W1_D3/issues"
+  },
+  "homepage": "https://github.com/Lan-Jiang/WEB502_HWK_Module3_W1_D3#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
